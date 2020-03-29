@@ -1,3 +1,12 @@
+# Todo App
+
+Just for my personal learning react.js
+
+## Todo
+
+- Add search todo function.
+- Add more styling and animations.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
